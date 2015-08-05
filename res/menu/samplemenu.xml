@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group android:id="@+id/particulares" android:visible="true" android:menuCategory="container" android:enabled="true">
+        <item android:id="@+id/cuentas" android:title="Cuentas y tarjetas"></item>
+        <item android:id="@+id/hipotecas" android:title="Hipotecas y Préstamos"></item>
+        <item android:id="@+id/ahorro" android:title="Ahorro e inversión"></item>
+        <item android:id="@+id/seguros" android:title="Seguros"></item>
+    </group>
+    <group android:id="@+id/bancapersonal">
+        <item android:id="@+id/aei" android:title="Ahorro e Inversión"></item>
+        <item android:id="@+id/nomina" android:title="Nómina y pesión"></item>
+        <item android:id="@+id/segurosper" android:title="Seguros"></item>
+        <item android:id="@+id/cuentasper" android:title="Cuentas y tarjetas"></item>
+        <item android:id="@+id/financiacion" android:title="Financiación"></item>
+    </group>
+    
+
+</menu>

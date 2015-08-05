@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">com.hackathon.bbva.ironglass</string>
+    <string name="transfermoney">Transfer money</string>
+    <string name="checkbalance">Check balance</string>
+    <string name="option3">opción 3</string>
+    <string name="start">iron</string>
+
+</resources>
